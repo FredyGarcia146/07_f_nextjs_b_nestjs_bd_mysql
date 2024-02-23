@@ -1,5 +1,5 @@
 
-# CRUD React and Nest JS
+# CRUD Next JS (React) and Nest JS
 
 <p align="center">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*okiCUvTUJLtOqJv1dMzwpA.png"

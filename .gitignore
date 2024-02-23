@@ -2,6 +2,16 @@ client-nextjs/.nextjs
 client-nextjs/dist
 client-nextjs/build
 client-nextjs/node_modules
+client-nextjs/node_modules
+# local env files
+client-nextjs/.env*.local
+
+# vercel
+client-nextjs/.vercel
+
+# typescript
+client-nextjs/*.tsbuildinfo
+client-nextjs/next-env.d.ts
 
 
 
