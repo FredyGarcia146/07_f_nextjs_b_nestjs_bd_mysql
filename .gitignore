@@ -1,0 +1,12 @@
+client-nextjs/.nextjs
+client-nextjs/dist
+client-nextjs/build
+client-nextjs/node_modules
+
+
+
+server/dist
+server/build
+server/node_modules
+server/.gitignore
+server/.env.development.local
